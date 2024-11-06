@@ -12,4 +12,3 @@ print(pole)#výpis kodu
 
 pole.extend(["podzim", "jaro"])#přidání dvou dalších stringových hodnot pomocí extend
 print(pole)#výpis kodu
-
